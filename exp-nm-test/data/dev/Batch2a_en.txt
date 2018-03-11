@@ -1,0 +1,6 @@
+She rides a car.
+He is riding a car.
+She jumps.
+Woman jumps.
+Man rides.
+He is a man.

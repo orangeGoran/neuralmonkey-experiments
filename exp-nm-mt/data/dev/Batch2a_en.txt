@@ -1,0 +1,30 @@
+In the Insert menu, select Table.
+In the Insert menu, select Picture.
+Click on the part of the document where you want the chart and then in the Insert menu choose Object and click where it says graph.
+Click the right mouse button on the chart and then go to Chart Data Table ...
+Go to Tools> Language> For all text and choose the language you want.
+Yes, go to Tools> Word Count.
+In the taskbar there is an icon shaped like binoculars, click and type in what you want to search.
+Yes, you have to go to Format>Uppercase / Lowercase and select lowercase.
+Select the cells you want to format, then click the right mouse button on one that is selected and choose Format Cells.
+There are two ways to send files to Google Drive, with the application (Https://tools.google.com/dlpage/drive), or through the website (https://drive.google.com/).
+If you have already accepted the file, go to the page https://drive.google.com and make sure that the file appears in the tab Shared with Me.
+In the list of files, you have the icon shaped like a star. Click on it. Then in the main menu there is a tab that says, "Starred"
+In the Google Drive site (https://drive.google.com) go to the tab Recent.
+Try to check on the website (https://drive.google.com) if it is in the Bin tab.
+On the calendar page, there are a few buttons that say, Day, Week, Month, 4 days and Agenda. Click on one of them, depending on the time range you wish view. Open Network Broadcast, and enter the address.
+Yes, when creating the calendar, you have the option that says, "Edit event." There you will be able to choose a color where it says, "Event Color"
+You will have go to the menu Media> Open File
+Yes it is possible, but the radio must have streaming by mms. You can see some examples here (Http://pukka131dicas.wordpress.com/2009/06/01/url-de-radios/). You just need to go to Media>
+You can double click on the movie screen, or go to Video> Full Screen
+Go to Video>Always on Top and remove the check mark.
+In Video> Aspect Ratio, select the option that best fits your requirements.
+Try to check if the sound in the lower right corner is 100, also check that in the menu Audio> Audio Track, the audio of the video is selected.
+In Audio> Audio Device select the phones.
+In the menu Subtitle> Add Subtitle File, browse to the file location.
+In Tools> Preferences, in the Audio tab, select the option Always reset audio start level to: and put the audio on maximum.
+Select the folder with the right mouse button and choose add to archive
+If you have WinRAR installed, press the right mouse button on the file and then select Extract here ...
+In File> Open... select the file you want to open.
+You have to go to File> Save or Save as ....
+Yes it is possible. Go to the menu Edit> Comment/Uncomment then block comment.

@@ -1,0 +1,100 @@
+Přesuňte kurzor myši na začátek prázdné stránky a klávesu DELETE tiskněte tak dlouho, jak je zapotřebí, aby text začínal na požadovaném místě.
+Chcete-li router nakonfigurovat, zkuste se dostat na interní stránku routeru. Ta se router od routeru liší. Pro získání adresy, uživatelského jména a hesla konzultujte manuál svého zařízení.
+Pokud váš disk není rozpoznán, zkuste změnit USB port.
+Zkontrolujte heslo, které pro přístup k bezdrátové síti potřebujete; pokud nebylo změněno, mělo by být pod vaším routerem.
+Zkontrolujte prosím, zda máte k e-mailu přístup ve svém webmailu a potom potvrďte nastavení svého e-mailového klienta.
+Postupujte podle pokynů, uvedených na této stránce: http://fotos.sapo.pt/sapoptmail/fotos/?uid=wp6t4AZGbkMVELZvItYK#grande
+Aktivujte ve svém mobilním telefonu si bezdrátové připojení a k požadované síti WiFi se připojte pomocí správného hesla.
+Vyberte e-maily a označte je jako „Není spam“.
+Vyčistěte si systém tím, že zvolíte položky Start > Spustit a napíšete „cleanmgr“ [cleanmgr je program, který se používá k identifikaci nepotřebných souborů z takových oblastí, jako je například mezipaměť vašeho webového prohlížeče, historie prohlížení, atd. a odstraní je]. Máte-li Windows 8, zadejte stejný příkaz v oblasti pro vyhledávání. Postupujte podle pokynů.
+Zapněte PS3 z nabídky nastavení sítě: „Nastavení“> „Nastavení sítě“.
+Obraťte se na svého poskytovatele internetu a svůj problém mu nahlaste.
+Dvakrát klikněte na ikonu antiviru, která je zobrazena v pravém dolním rohu pracovní plochy. Panel antiviru vám ukáže, zda nějaké viry nemáte
+Mohl by to být virus. Proveďte kontrolu pomocí antivirového programu.
+Zkuste si nainstalovat tento PDF writer http://www.cutepdf.com/products/cutepdf/writer.asp.
+Zkontrolujte, zda váš počítač dokáže detekovat bezdrátové sítě. V opačném případě může být zakázána bezdrátová síťová karta. Někdy mají počítače fyzické tlačítko nebo spínač, kterým lze bezdrátovou síťovou kartu zapnout a vypnout.
+Přejděte na položky Systémové nástroje > Obnovení systému a postupujte podle pokynů.
+Zkontrolujte, zda je služba Windows Update aktivní.
+Zkontrolujte, zda je telefon připojen k síti.
+Zkuste jej zapojit do jiné zásuvky.
+Původní síťové heslo k WiFi se nachází pod routerem, poskytovaným vaším ISP. [poskytovatel internetových služeb]
+Potvrďte své uživatelské jméno a heslo. Pokud problém přetrvává, klikněte na položku „Nemohu si vzpomenout na své uživatelské jméno nebo heslo“ a postupujte podle pokynů.
+Tento symbol vám sděluje, že nejste připojeni k síti. Pokud jste připojeni kabelem, zkontrolujte jej. Jste-li připojeni přes Wi-Fi, ujistěte se, zda je váš bezdrátový router zapnutý a zda je vaše bezdrátová síťová karta povolena.
+Vyberte soubory, které chcete odstranit, a zvolte položku Odstranit nebo stiskněte klávesu Del na klávesnici.
+Zkontrolujte, zda jste správně připojeni k routeru.
+Pomocí síťových kabelů připojte počítač přímo k bezdrátovému routeru. Pokud můžete, vstupte na vnitřní stránku síťového nastavení bezdrátového routeru a ujistěte se, zda je bezdrátový signál zapnutý. Zkontrolujte, zda je bezdrátové připojení zapnuto. Má-li váš router průvodce, měli byste jej spustit.
+Zkuste router resetovat.
+CD, které je dodáváno se zařízením, obsahuje ovladače pro instalaci. Případně si je můžete stáhnout z webu výrobce.
+Odstraňte bezdrátovou síť a zkuste se připojit znovu s použitím platných údajů.
+Ujistěte se, zda je opakovač synchronizován s routerem a zda je správný přístupový klíč.
+Zkuste počítač připojit k jinému monitoru, nebo, v případě notebooku, k externímu monitoru. Pokud tam funguje, máte problém s monitorem.
+Zapněte PS3 a přejděte na položky Nastavení> Nastavení sítě, vyberte síť a zadejte své přihlašovací údaje.
+Přejděte na stránku interního nastavení routeru a ověřte, zda nastavení umožňuje přesměrování portu NAT.
+Odpojte router od elektrické sítě a po 30 sekundách jej znovu zapojte.
+Zkuste router resetovat.
+To momentálně není možné.
+Zkontrolujte, zda svou bezdrátovou síť detekovat dokážete detekovat.
+Zkontrolujte, zda je tlačítko Wi-Fi na vašem notebooku aktivní. Pokud ano, zkontrolujte, zda detekuje vaši bezdrátovou síť.
+Podívejte se na klíč, který je pod routerem.
+Může to být způsobeno malou šířkou pásma nebo pomalým počítačem. Zkuste počítač vyčistit.
+Zkuste nainstalovat ovladače z disku CD, dodaného spolu s tiskárnou. Pokud CD nemáte, můžete navštívit webovou stránku výrobce získat potřebné ovladače.
+Přejděte na webovou stránku Java a stáhněte a nainstalujte si nejnovější verzi.
+Zkuste počítač restartovat.
+Přejděte na stránku vnitřního nastavení routeru a heslo změňte
+Proveďte aktualizaci svého antivirového programu a spusťte kontrolu.
+Proveďte obnovení systému a kontrolu virů.
+Zkontrolujte heslo k bezdrátové síti na stránce vnitřního nastavení routeru.
+Poskytování vašeho mobilního telefonního čísla na Facebook povinné není.
+Přejděte na webovou stránku Java, program si stáhněte a nainstalujte.
+Zkontrolujte, zda některá klávesa na klávesnici nezůstala zaseknutá.
+Zkontrolujte, zda je tiskárna správně připojena k síti.
+Můžete jej provést zde: http://www.speedtest.net/pt/.
+Pro změnu hesla přejděte na https://id.sapo.pt (change password/změnit heslo), jděte na Email Login/Přihlášení k e-mailu > a vyberte znovu Change Password/Změnit heslo
+Musíte získat přístup k nastavení vašeho e-mailového klienta a zkontrolovat, zda je server odchozí pošty správný.
+Zkuste se dostat do nouzového režimu tak, že při spouštění počítače opakovaně stisknete klávesu F8. Potom budete muset provést obnovení systému.
+Restartujte počítač a zkuste to znovu. Pokud problém přetrvává, zkuste software přeinstalovat.
+Pravděpodobně je problém v síťovém kabelu. Vyzkoušejte to pomocí jiného kabelu.
+Nainstalujte aktualizace pro Wow.
+Použijte stejné přihlašovací údaje, jaké používáte pro klientskou oblast PT.
+Router ADB tuto funkci nemá.
+Současně stiskněte klávesy Shift + Ctrl + Delete a vyberte položku Vyčistit mezipaměť. Potom stiskněte Cclear.
+Budete muset počkat, až blok vyprší.
+Musíte zkopírovat odkaz Hotmailu a vytvořit na ploše zástupce.
+Oba antivirové programy jsou dobré. Prostě si vyberte ten, který nejlépe vyhovuje vašim potřebám, a druhý odstraňte.
+Klikněte na něj pravým tlačítkem myši a zvolte možnost „Tisk“.
+Přesvědčte se, že je možnost připojení Wi-Fi na vašem telefonu povolena.
+Zkontrolujte klíč pod vaším routerem.
+Vstupte na vnitřní stránku routeru. V návodu k zařízení zkontrolujte IP, uživatelské jméno a heslo a potom se v nabídkách routeru vyhledejte možnost SSID.
+V pravém spodním rohu obrazovky uvidíte symbol, který vypadá jako reproduktor. Zkontrolujte, zda je na 100%.
+Obnovte přihlašovací přístupová data k MyZon.
+Alt>Zobrazit> Panely nástrojů> Panel Oblíbené.
+Přejděte na položky Nástroje> Účet a proveďte zkušební odeslání. Pokud se nezdaří, zjistěte u svého poskytovatele e-mailu přihlašovací údaje e-mailového klienta.
+Synchronizujte modem a router tak, že je odpojíte ze zásuvek a po 30 sekundách je znovu připojíte.
+Přejděte na „Nastavení>“ „Otevřít konkrétní stránku nebo sadu stránek“ a vložte adresu stránky, kterou chcete mít jako domovskou.
+Restartujte zařízení.
+Prostě panel přetáhněte na místo, kde jej chcete mít.
+Přesuňte virus do karantény a proveďte úplnou kontrolu počítače.
+Nainstalujte VLC z těchto webových stránek: http://www.videolan.org/vlc/.
+Stiskem tlačítka, které používáte pro zapnutí počítače.
+Připojte modem k portu WAN routeru a potom obě zařízení odpojte od elektrické sítě a znovu je oba zapněte.
+Musíte vstoupit na webovou stránku interního nastavení routeru (obvykle 192.168.1.1) a povolte UPnP.
+Zkontrolujte, zda svou bezdrátovou síť vidíte.
+Pokud disk havaroval, nemáte přístup do operačního systému. Jediným způsobem, jak to udělat, je získat CD s živým operačním systémem, který nevyžaduje instalaci na disk. Potom si budete muset na jiném počítači stáhnout software z této stránky: http://www.ubuntu.com/download/desktop, vypálit na CD a vložit je do poškozeného počítače.
+Resetujte router. Provedete to stiskem kolíku Reset na 30 sekund a poté zařízení odpojte ze zásuvky a znovu je připojte.
+Nakonfigurujte nové heslo ve všech e-mailových klientech.
+Nainstalujte si nějakého e-mailového klienta, například Thunderbird.
+Odpojte router ze sítě na dobu 2 minut. Pokud problém přetrvává, možná budete muset provést reset.
+Obě zařízení synchronizujte tím, že je vypnete. Zapněte modem a počkejte, až se všechna světla modemu rozsvítí, a potom router připojte do zásuvky.
+Zkontrolujte kabel VGA, který spojuje monitor s počítačem.
+Zkontrolujte, zda jste připojeni k síti.
+Ujistěte se, že jste k routeru připojeni kabelem. Přečtěte si že uživatelskou příručku, ze které se adresu stránky routeru dozvíte. Potom vyhledejte takovou nabídku, která je pro možnost, kterou požadujete, nejvhodnější.
+Zjistěte, zda máte skener nebo multifunkční tiskárnu připojené k počítači a nainstalovánu.
+Budete potřebovat přístup na vnitřní stránky nastavení routeru, a to prostřednictvím prohlížeče. Obvykle je to adresa (192.168.1.1). Změňte parametry SSID, Kanál a Zabezpečení.
+Přejděte na stránku poskytovatele, u kterého si chcete e-mailový účet vytvořit, a zaregistrujte se.
+Musíte obnovit licenci nebo získat nový.
+Může to být problém s ovladači síťové karty. Zkuste ovladače síťové karty přeinstalovat.
+Odinstalujte programy, které nepotřebujete, a proveďte vyčištění disku.
+Pro zadání bezpečnostního klíče klikněte na pole, které je pod pinem.
+Zkuste zkontrolovat, zda je bezdrátový symbol zobrazen na obrazovce mobilního telefonu.
+Zkuste otevřít jiný prohlížeč, jako je Firefox, Chrome nebo IE, a zjistěte, zda problém přetrvává.
+V Outlooku přejděte na položky Nástroje> Účty a zadejte údaje, vztahující se k vašemu e-mailovému účtu

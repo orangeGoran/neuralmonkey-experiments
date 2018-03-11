@@ -1,0 +1,4 @@
+He is a man.
+She is a woman.
+He.
+She.

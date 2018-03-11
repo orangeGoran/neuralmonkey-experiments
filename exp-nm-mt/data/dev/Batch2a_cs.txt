@@ -1,0 +1,30 @@
+V nabídce Vložit vyberte položku Tabulka.
+V nabídce Vložit vyberte položku Obrázek.
+Klikněte na tu část dokumentu, kam chcete graf vložit, v nabídce Vložit vyberte Objekt a klikněte tam, kde se píše „graf“.
+Pravým tlačítkem myši klikněte na graf a přejděte do nabídky Tabulka dat grafu...
+Přejděte na Nástroje > Jazyk > Pro veškerý text a vyberte požadovaný jazyk.
+Ano, přejděte do nabídky Nástroje > Počet slov.
+V panelu je ikona ve tvaru dalekohledu; klepněte na ni a napište, co chcete vyhledat.
+Ano, musíte přejít do nabídky Formát > Velká/Malá písmena a vybrat malá písmena.
+Vyberte buňky, které chcete naformátovat, potom pravým tlačítkem myši klikněte na některou vybranou a zvolte možnost Formátovat buňky.
+Existují dva způsoby, jak odeslat soubory do služby Google Drive: prostřednictvím aplikace (HTTPS://tools.google.com/dlpage/drive) nebo webové stránky (https://drive.google.com/).
+Pokud jste již soubor přijali, přejděte na stránku https://drive.google.com a ujistěte se, zda je soubor zobrazen ve složce Shared with Me (Sdíleno se mnou).
+V seznamu souborů máte na ikonu ve tvaru hvězdy. Klikněte na ni. V hlavní nabídce je také karta s názvem „Starred“ (S hvězdičkou)
+Na webu Google Drive (https://drive.google.com) přejděte na kartu Recent (Nedávné).
+Zkuste na webových stránkách (https://drive.google.com) zkontrolovat, jestli nebude na kartě Bin (Koš).
+Na stránce kalendáře je několik tlačítek s nápisy den, týden, měsíc, 4 dny a Agenda. Klikněte na některý z nich podle toho, jaké časové rozmezí chcete zobrazit.
+Ano, při vytváření kalendáře máte možnost „Upravit událost“. Tehdy si můžete na kartě „Barva události“ vybrat barvu.
+Musíte přejít do nabídky Média > Otevřít soubor
+Ano, je to možné, ale rádio musí mít streaming prostřednictvím mms. Zde můžete vidět několik příkladů (Http://pukka131dicas.wordpress.com/2009/06/01/url-de-radios/). Stačí jen přejít do nabídky Média>
+Můžete dvakrát kliknout na obrazovku s filmem, nebo přejít do nabídky Video> Celá obrazovka
+Přejděte do nabídky Video> Vždy nahoře a odstraňte zaškrtnutí.
+V nabídce Video> Poměr stran vyberte možnost, která nejlépe vyhovuje vašim požadavkům.
+Zkontrolujte, zda je zvuk v pravém dolním rohu je 100, a také zkontrolujte, zda je v nabídce Audio> Zvuková stopa vybrán zvuk z videa.
+V nabídce Audio> Zvuková zařízení vyberte sluchátka.
+V nabídce Titulky> Přidat soubor titulků vyhledejte umístění souboru.
+V nabídce Nástroje> Předvolby v záložce Audio vyberte možnost Vždy obnovit počáteční úroveň zvuku: a nastavte zvuk na maximum.
+Vyberte složku pravým tlačítkem myši a vyberte možnost Přidat do archivu
+Pokud máte WinRAR nainstalován, stiskněte na souboru pravé tlačítko myši a vyberte možnost Extrahovat zde...
+V nabídce Soubor> Otevřít… vyberte soubor, který chcete otevřít.
+Musíte přejít do nabídky Souboru> Uložit nebo Uložit jako...
+Ano, je to možné. Přejděte do nabídky Úpravy> Komentář/Zrušit komentář a potom komentář zablokujte.
