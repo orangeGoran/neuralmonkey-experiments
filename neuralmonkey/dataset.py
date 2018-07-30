@@ -125,8 +125,9 @@ class Dataset(collections.Sized):
         """
         if allow_none:
             return self._series.get(name)
-            
-        return self._series[name]
+
+        # return self._series[name]
+        return self._series['source']
 
     @property
     def series_ids(self) -> Iterable[str]:

@@ -43,7 +43,7 @@ def index():
         source_text = request.form["source"]
         data = {"source": [source_text.split()]}
         translation_response = run(data)
-        translation = " ".join(translation_response["target"][0])
+        translation = " ".join(translation_response["target_greedy"][0])
     else:
         source_text = "enter tokenized soruce language text here ."
         translation = ""
