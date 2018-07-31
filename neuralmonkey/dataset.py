@@ -126,7 +126,9 @@ class Dataset(collections.Sized):
         if allow_none:
             return self._series.get(name)
 
+        # changed here from
         # return self._series[name]
+        # to:
         return self._series['source']
 
     @property

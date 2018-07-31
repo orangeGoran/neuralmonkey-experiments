@@ -40,10 +40,22 @@ def run(data):  # pragma: no cover
 @APP.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
-        source_text = request.form["source"]
+        # changed here from
+        # source_text = request.form["source"]
+        # to:
+        if request.get_json() is not None:
+            source_text = request.get_json()["source"]
+        else:
+            source_text = request.form["source"]
         data = {"source": [source_text.split()]}
+        #change end
         translation_response = run(data)
+        # changed here from
+        # translation = " ".join(translation_response["target"][0])
+        # to:
         translation = " ".join(translation_response["target_greedy"][0])
+        #change end
+        
     else:
         source_text = "enter tokenized soruce language text here ."
         translation = ""

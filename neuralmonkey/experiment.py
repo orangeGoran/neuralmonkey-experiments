@@ -186,6 +186,9 @@ class Experiment(object):
     def load_variables(self, variable_files: List[str] = None) -> None:
         if not self._model_built:
             self.build_model()
+        # changed here from
+        # variable_files = [self.get_path("variables.data.0")]
+        # to:
         variable_files = [self.get_path("variables.data")]
         if variable_files is None:
             variable_files = [self.get_path("variables.data")]
