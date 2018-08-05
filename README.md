@@ -1,30 +1,28 @@
-Neural monkey - doing some expirements with neural machine translations. want to make own api which will provide translations from one to another languge.
+Neual machine translation based on Neural Monkey for Bachelor dissertation. Accessible at: waiting_for_server
 ## Usage
 
 ```bash
-neuralmonkey-train <EXPERIMENT_INI>
-neuralmonkey-run <EXPERIMENT_INI> <DATASETS_INI>
-neuralmonkey-server <EXPERIMENT_INI> [OPTION] ...
-neuralmonkey-logbook --logdir <EXPERIMENTS_DIR> [OPTION] ...
+bin/neuralmonkey-train exp-nm-mt/translation.ini
+bin/neuralmonkey-run exp-nm-mt/translation.ini exp-nm-mt/translation_run.ini
+bin/neuralmonkey-server --configuration exp-nm-mt/translation.ini
+```
+## Installation
+```bash
+python3 -m venv nm
+source nm/bin/activate
+git clone https://github.com/ufal/neuralmonkey
+cd neuralmonkey
+pip3 install numpy 
+pip install --upgrade -r requirements-gpu.txt
 ```
 
-## Installation
-http://neural-monkey.readthedocs.io/en/latest/
+## Getting corpuses
 
-## Package Overview
-
-- `bin`: Directory with neuralmonkey executables
-
-- `examples`: Example configuration files for ready-made experiments
-
-- `lib`: Third party software
-
-- `neuralmonkey`: Python package files
-
-- `scripts`: Directory with tools that may come in handy. Note dependencies for
-   these tools may not be listed in the project requirements.
-
-- `tests`: Test files
+Accessible at: http://opus.nlpl.eu/<br>
+Used column: alg (row item: en-sl)<br>
+CORPUSES URLS:<br>
+ANG: http://opus.nlpl.eu/download/OpenSubtitles2018/en-sl/c.clean.en.gz<br>
+SLO: http://opus.nlpl.eu/download/OpenSubtitles2018/en-sl/c.clean.sl.gz<br>
 
 ## License
 
