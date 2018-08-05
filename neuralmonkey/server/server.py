@@ -55,9 +55,9 @@ def index():
         # to:
         translation = " ".join(translation_response["target_greedy"][0])
         #change end
-        
+
     else:
-        source_text = "enter tokenized soruce language text here ."
+        source_text = "Vse znake in besede ločite s presledkom ."
         translation = ""
 
     return render_template(

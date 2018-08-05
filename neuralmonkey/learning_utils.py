@@ -416,6 +416,8 @@ def run_on_dataset(tf_manager: TensorFlowManager,
 
     if write_out:
         for series_id, data in result_data.items():
+            series_id = 'series_named_greedy'
+            
             if series_id in dataset.series_outputs:
                 path = dataset.series_outputs[series_id]
                 if isinstance(data, np.ndarray):

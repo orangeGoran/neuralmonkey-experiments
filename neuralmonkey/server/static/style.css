@@ -31,7 +31,7 @@ body {
 .site-header h1 {
   font-size: 29px;
   line-height: normal;
-  
+  color: #09204d;
 }
 
 .site-header h2 {
@@ -73,14 +73,8 @@ body {
 }
 
 .navbar-inverse .navbar-inner {
-  background-color: #1b1b1b;
-  background-image: -moz-linear-gradient(top, #222222, #111111);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#222222), to(#111111));
-  background-image: -webkit-linear-gradient(top, #222222, #111111);
-  background-image: -o-linear-gradient(top, #222222, #111111);
-  background-image: linear-gradient(to bottom, #222222, #111111);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);
+
+  background-color: #023f6c;
   border-color: #252525;
 }
 
@@ -88,14 +82,7 @@ body {
   min-height: 40px;
   padding-left: 20px;
   padding-right: 20px;
-  background-color: #fafafa;
-  background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f2f2f2));
-  background-image: -webkit-linear-gradient(top, #ffffff, #f2f2f2);
-  background-image: -o-linear-gradient(top, #ffffff, #f2f2f2);
-  background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
+  background-color: #023f6c;
   border: 1px solid #d4d4d4;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -105,31 +92,54 @@ body {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
 }
 
+.button {
+    background-color: #023f6c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
 
-.navbar .nav>li {
+.navbar .nav > li {
   float: left;
 }
 
-.navbar .nav > li > a {
-  text-transform: uppercase;
+.navbar .nav > li {
   font-weight: bold;
   display: block;
   margin-top: -16px;
 }
 
-.navbar-inverse .brand, .navbar-inverse .nav>li>a {
-  color: #999999;
+.navbar .nav > li .title{
+  font-weight: lighter;
+  color: #cdc5ba;
+}
+
+.navbar .nav > li .title:not(:first-child){
+  margin-left: 35px;
+}
+
+.navbar-inverse .brand, .navbar-inverse .nav>li {
+  color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
 
-.navbar .nav>li>a {
+.navbar .nav>li {
   float: none;
   padding: 10px 15px 10px;
   text-decoration: none;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 14px;
 }
 
+
+.leaf a {
+  text-decoration: underline;
+  color: inherit;
+}
 
 ul li.collapsed, ul li.expanded, ul li.leaf {
   list-style: none;
@@ -140,16 +150,16 @@ ul li.collapsed, ul li.expanded, ul li.leaf {
   padding-left: 0px;
 }
 
-inverse .nav>li>a:focus, .navbar-inverse .nav>li>a:hover {
+inverse .nav>li:focus, .navbar-inverse .nav>li:hover {
   background-color: transparent;
   color: #ffffff;
 }
 
-.navbar-inverse .brand:hover, .navbar-inverse .nav>li>a:hover, .navbar-inverse .brand:focus, .navbar-inverse .nav>li>a:focus {
+.navbar-inverse .brand:hover, .navbar-inverse .nav>li:hover, .navbar-inverse .brand:focus, .navbar-inverse .nav>li:focus {
   color: #ffffff;
 }
 
-.navbar .nav>li>a:focus, .navbar .nav>li>a:hover {
+.navbar .nav>li:focus, .navbar .nav>li:hover {
   background-color: transparent;
   color: #ffffff;
   text-decoration: none;
@@ -160,9 +170,7 @@ inverse .nav>li>a:focus, .navbar-inverse .nav>li>a:hover {
   margin-left: -20px;
 }
 
-.navbar .nav>li.cat a {
-  font-size: 12px;
-}
+
 
 .arrow {
   margin-right: 10px;
